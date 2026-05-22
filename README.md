@@ -5,6 +5,9 @@
 
 This repository contains a production-oriented end-to-end ML system for churn prediction in a bank. The project demonstrates core MLOps principles, including orchestration, deployment, model versioning, experiment tracking, monitoring, automated retraining, best practices and much more. The core data science documentation with all the methodology context including exploratory data analysis and modeling is provided in [`research/Experiment.ipynb`](./research/Experiment.ipynb).
 
+
+### **[Check out this link for a video presentation of my project on LinkedIn](https://www.linkedin.com/posts/pedro-lucas-salazar-vital_in-this-video-i-walk-through-my-end-to-end-ugcPost-7431668116788633600-Kxwx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8nARUBxECOeKf6Re4ks0J6_FBy8nhhyhY)**
+
 ---
 ## Table of Contents
 
