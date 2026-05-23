@@ -84,7 +84,7 @@ The serving stack runs on a single **Amazon EC2** instance using Docker Compose.
 
 AWS IAM roles are used instead of long-lived credentials for EC2, aligning with security best practices.
 
-#### Tools Communication Diagram
+#### Stack Communication Diagram
 ![Tools_Communication_Diagram](./docs/assets/Tools_Communication_Diagram.svg)
 
 ---
